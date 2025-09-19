@@ -1,0 +1,12 @@
+# path: catalog-info.yaml
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: backstage-poc
+  description: My Backstage proof-of-concept
+  annotations:
+    github.com/project-slug: rahulgrt2702/backstage-poc
+spec:
+  type: service
+  lifecycle: experimental
+  owner: user:default/rahulgrt2702
