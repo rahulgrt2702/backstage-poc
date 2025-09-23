@@ -1,0 +1,14 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: student-analytics-dashboard
+  description: A React-based dashboard for visualizing student performance and attendance trends.
+  annotations:
+    backstage.io/source-location: url:https://github.com/rahulgrt2702/student-analytics-dashboard
+    github.com/project-slug: rahulgrt2702/student-analytics-dashboard
+    backstage.io/techdocs-ref: dir:.
+spec:
+  type: website
+  lifecycle: experimental
+  owner: team-analytics
+  system: school-platform
