@@ -5,9 +5,9 @@ metadata:
   name: backstage-poc
   description: My Backstage proof-of-concept
   annotations:
-    github.com/project-slug: rahulgrt2702/backstage-poc
     backstage.io/source-location: url:https://github.com/rahulgrt2702/backstage-poc
-    backstage.io/ci-link: https://github.com/rahulgrt2702/backstage-poc/actions    
+    github.com/project-slug: rahulgrt2702/backstage-poc
+    backstage.io/techdocs-ref: dir:.
 spec:
   type: service
   lifecycle: experimental
