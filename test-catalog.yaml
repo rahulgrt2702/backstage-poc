@@ -4,7 +4,7 @@ metadata:
   name: school-management-app
   description: A Django-based school management system with student and teacher dashboards.
   annotations:
-    backstage.io/source-location: url:https://github.com/rahulgrt2702/backstage-poc
+    backstage.io/source-location: url:https://github.com/rahulgrt2702/backstage-poc/tree/main
     github.com/project-slug: rahulgrt2702/backstage-poc
     backstage.io/techdocs-ref: dir:.
 spec:
