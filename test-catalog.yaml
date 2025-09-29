@@ -7,7 +7,7 @@ metadata:
     backstage.io/source-location: url:https://github.com/rahulgrt2702/backstage-poc/tree/main
     github.com/project-slug: rahulgrt2702/backstage-poc
     backstage.io/techdocs-ref: dir:.
-    backstage.io/kubernetes-id: school-management-app
+    backstage.io/kubernetes-id: demo-portal
     backstage.io/ci-build: github-actions
 spec:
   type: service
