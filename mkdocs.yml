@@ -5,5 +5,8 @@ nav:
 
 docs_dir: docs
 
+repo_url: https://github.com/rahulgrt2702/backstage-poc
+edit_uri: edit/main/docs/
+
 plugins:
   - techdocs-core
